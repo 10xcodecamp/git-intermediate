@@ -1,5 +1,7 @@
 # Git Intermediate Cheat Sheet
 
+Most of this info comes from [How do I revert a Git repository to a previous commit?](https://stackoverflow.com/questions/4114095/how-do-i-revert-a-git-repository-to-a-previous-commit) - especially the "Undo published commits with new commits" section. The syntax for including the first commit id in the revert comes from [Revert a range of commits in git](https://stackoverflow.com/questions/4991594/revert-a-range-of-commits-in-git).
+
 You can watch this video for detailed examples:
 
 📹 [131H Reverting Commits with Git](https://www.youtube.com/watch?v=SqkVP_4qeCI)
